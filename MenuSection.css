@@ -1,0 +1,8 @@
+.menu-section-scroll {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.menu-section-scroll::-webkit-scrollbar {
+  display: none;
+}
